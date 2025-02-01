@@ -1,0 +1,75 @@
+time,sample,area,experiment
+0,control_00,136462.305,Control
+0,control_01,135093.892,Control
+0,control_02,136069.325,Control
+0,control_03,133451.798,Control
+0,control_04,138279.837,Control
+0,control_05,138497.38,Control
+0,test_00_00,137500.895,Vemurafenib 10µM
+0,test_00_02,135465.82,Vemurafenib 10µM
+0,test_00_03,127704.465,Vemurafenib 10µM
+0,test_00_04,132799.17,Vemurafenib 10µM
+0,test_00_05,120076.443,Vemurafenib 10µM
+0,test_00_06,114476.478,Vemurafenib 10µM
+2,control_00,190104.075,Control
+2,control_01,201184.707,Control
+2,control_02,202328.56,Control
+2,control_03,197472.45,Control
+2,control_04,216910.925,Control
+2,control_05,212686.39,Control
+2,test_00_00,211563.59,Vemurafenib 10µM
+2,test_00_01,216335.49,Vemurafenib 10µM
+2,test_00_02,210061.845,Vemurafenib 10µM
+2,test_00_03,209367.112,Vemurafenib 10µM
+2,test_00_04,206398.71,Vemurafenib 10µM
+2,test_00_05,197809.29,Vemurafenib 10µM
+2,test_00_06,190798.807,Vemurafenib 10µM
+4,control_00,241430.07,Control
+4,control_01,237914.302,Control
+4,control_02,251142.29,Control
+4,control_03,243149.358,Control
+4,control_04,276328.097,Control
+4,control_05,271542.162,Control
+4,test_00_00,226110.867,Vemurafenib 10µM
+4,test_00_01,223430.182,Vemurafenib 10µM
+4,test_00_02,224019.652,Vemurafenib 10µM
+4,test_00_03,224868.77,Vemurafenib 10µM
+4,test_00_04,226349.462,Vemurafenib 10µM
+4,test_00_05,212960.073,Vemurafenib 10µM
+4,test_00_06,207282.915,Vemurafenib 10µM
+6,control_00,281878.94,Control
+6,control_01,294159.565,Control
+6,control_02,300903.383,Control
+6,control_03,305296.338,Control
+6,control_04,351506.575,Control
+6,control_05,348145.193,Control
+6,test_00_00,198363.673,Vemurafenib 10µM
+6,test_00_01,203135.573,Vemurafenib 10µM
+6,test_00_02,209739.04,Vemurafenib 10µM
+6,test_00_03,200321.555,Vemurafenib 10µM
+6,test_00_04,218335.478,Vemurafenib 10µM
+6,test_00_05,198370.69,Vemurafenib 10µM
+6,test_00_06,194118.085,Vemurafenib 10µM
+8,control_00,321162.905,Control
+8,control_01,306159.49,Control
+8,control_02,353632.878,Control
+8,control_03,354545.153,Control
+8,control_04,442207.763,Control
+8,control_05,436762.182,Control
+8,test_00_00,218138.987,Vemurafenib 10µM
+8,test_00_01,228882.78,Vemurafenib 10µM
+8,test_00_02,237058.168,Vemurafenib 10µM
+8,test_00_04,257801.897,Vemurafenib 10µM
+8,test_00_05,222742.467,Vemurafenib 10µM
+8,test_00_06,216531.98,Vemurafenib 10µM
+10,control_00,346741.693,Control
+10,control_01,373443.28,Control
+10,control_02,360088.977,Control
+10,control_03,382559.013,Control
+10,control_04,426909.612,Control
+10,control_05,447674.395,Control
+10,test_00_00,239100.26,Vemurafenib 10µM
+10,test_00_01,241809.015,Vemurafenib 10µM
+10,test_00_02,260342.233,Vemurafenib 10µM
+10,test_00_03,245135.31,Vemurafenib 10µM
+10,test_00_05,241373.93,Vemurafenib 10µM
