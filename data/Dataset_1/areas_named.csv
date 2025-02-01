@@ -1,0 +1,65 @@
+time,sample,area,experiment
+0,control_00,380292.36,Control
+0,control_01,373871.348,Control
+0,control_02,373106.44,Control
+0,control_03,341569.795,Control
+0,control_04,337078.595,Control
+0,test_00_00,364292.46,Violacein 1µM
+0,test_00_01,333640.02,Violacein 1µM
+0,test_00_02,328811.98,Violacein 1µM
+0,test_00_03,323801.485,Violacein 1µM
+0,test_00_04,395141.39,Violacein 1µM
+0,test_00_05,390109.843,Violacein 1µM
+2,control_00,337352.278,Control
+2,control_01,326222.523,Control
+2,control_02,317766.435,Control
+2,control_03,259703.64,Control
+2,control_04,246798.457,Control
+2,test_00_00,258643.997,Violacein 1µM
+2,test_00_01,247268.63,Violacein 1µM
+2,test_00_02,277352.653,Violacein 1µM
+2,test_00_03,251970.355,Violacein 1µM
+2,test_00_04,275963.188,Violacein 1µM
+2,test_00_05,233437.138,Violacein 1µM
+4,control_00,366888.935,Control
+4,control_01,345352.227,Control
+4,control_02,300678.823,Control
+4,control_03,274405.302,Control
+4,control_04,264335.19,Control
+4,test_00_01,222672.293,Violacein 1µM
+4,test_00_02,243823.038,Violacein 1µM
+4,test_00_03,216131.983,Violacein 1µM
+4,test_00_04,218882.842,Violacein 1µM
+4,test_00_05,238237.108,Violacein 1µM
+6,control_00,386530.917,Control
+6,control_01,368194.19,Control
+6,control_02,337443.505,Control
+6,control_03,309064.735,Control
+6,control_04,318138.362,Control
+6,test_00_00,274033.375,Violacein 1µM
+6,test_00_01,255907.173,Violacein 1µM
+6,test_00_02,270657.958,Violacein 1µM
+6,test_00_03,255752.788,Violacein 1µM
+6,test_00_04,241612.525,Violacein 1µM
+6,test_00_05,219788.1,Violacein 1µM
+8,control_00,407176.403,Control
+8,control_01,371029.26,Control
+8,control_02,352018.852,Control
+8,control_03,316706.792,Control
+8,control_04,314819.085,Control
+8,test_00_00,299941.985,Violacein 1µM
+8,test_00_01,281457.89,Violacein 1µM
+8,test_00_02,278524.575,Violacein 1µM
+8,test_00_03,265057.992,Violacein 1µM
+8,test_00_04,247479.155,Violacein 1µM
+8,test_00_05,224735.438,Violacein 1µM
+10,control_00,374018.715,Control
+10,control_01,365359.12,Control
+10,control_02,396488.75,Control
+10,control_03,311668.227,Control
+10,control_04,294875.35,Control
+10,test_00_00,299198.13,Violacein 1µM
+10,test_00_01,316068.2,Violacein 1µM
+10,test_00_02,282678.935,Violacein 1µM
+10,test_00_03,281738.59,Violacein 1µM
+10,test_00_04,266180.792,Violacein 1µM
